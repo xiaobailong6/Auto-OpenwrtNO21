@@ -3,12 +3,12 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001
+	Author=YiLong
 	Default_TARGET_PROFILE=auto
 	Short_Firmware_Date=true
 	Default_LAN_IP=false
 
-	INCLUDE_AutoBuild_Features=true
+	INCLUDE_AutoBuild_Features=false
 	INCLUDE_DRM_I915=false
 	INCLUDE_Argon=true
 	INCLUDE_Obsolete_PKG_Compatible=false
